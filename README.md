@@ -30,17 +30,52 @@ Fresher Full Stack Developer with hands-on experience in building and deploying 
 
 ### 🛠️ Technical Skills
 
-**Frontend**
-- React.js, HTML, CSS  
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Frontend-1f2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-**Backend**
-- Node.js, REST APIs  
+<p align="left">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Backend-1f2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
+</p>
 
-**Databases**
-- MongoDB, Supabase, Firebase  
+<p align="left">
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/Databases-1f2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
-**Deployment & Tools**
-- VPS (Hostinger), Git, GitHub  
+<p align="left">
+  <!-- AI / ML & Tools -->
+  <img src="https://img.shields.io/badge/AI_&_ML_Tools-1f2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anvil-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+</p>
+
+<p align="left">
+  <!-- Deployment & DevOps -->
+  <img src="https://img.shields.io/badge/Deployment_&_DevOps-1f2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VPS_Hostinger-673DE6?style=for-the-badge"/>
+</p>
+
+<p align="left">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Tools-1f2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
+</p>
+
 
 ---
 
