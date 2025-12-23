@@ -1,137 +1,113 @@
-<h1 align="center">Hi 👋, I'm Shiva Tejj</h1>
-<h3 align="center">
-Fresher Full Stack Developer • Frontend-Focused • Backend-Capable
-</h3>
+<h1 align="center">Hi 👋, I'm Shiva Tejj Cheedalla</h1>
+<h3 align="center">Fresher Full Stack Developer</h3>
 
 <p align="center">
 📍 Hyderabad, India &nbsp; | &nbsp;
 📧 <a href="mailto:shivatejjcheedalla@gmail.com">shivatejjcheedalla@gmail.com</a> &nbsp; | &nbsp;
-🔗 <a href="https://www.linkedin.com/in/your-linkedin-username">LinkedIn</a>
+🔗 <a href="https://www.linkedin.com/in/shiva-tejj-cheedalla-096915258/">LinkedIn</a> &nbsp; | &nbsp;
+🐙 <a href="https://github.com/shivatejj">GitHub</a>
 </p>
 
 ---
 
 ### 👨‍💼 Professional Summary
 
-I am a fresher Full Stack Developer with strong practical experience in designing and building real-world web applications.  
-My focus lies in **frontend engineering and user experience**, supported by solid backend integration, database handling, and deployment knowledge.  
-I enjoy building clean, scalable, and production-ready systems that solve real business problems.
+Fresher Full Stack Developer with hands-on experience in building and deploying scalable web applications using React, Node.js, MongoDB, Supabase, and Firebase. Experienced in authentication, REST APIs, backend logic, and VPS-based deployment. Strong interest in solving real-world problems across EdTech, automation, and enterprise digital solutions.
 
 ---
 
-### 🎯 Role Focus
+### 💼 Experience
 
-**Primary Role**
-- Frontend Developer (React, Next.js, UI Engineering)
+**Full Stack Developer Intern — YOI Media LLP**  
+*Hyderabad | 3 Months*
 
-**Secondary Capability**
-- Full Stack Developer (API integration, databases, deployment)
-
-**Exposure To**
-- Backend Development (Node.js, Python, REST APIs)
-
----
-
-### 🧠 Currently Upskilling In
-
-- Data Structures & Algorithms  
-- Advanced React & Next.js Patterns  
-- Backend Architecture & API Design  
-- System Design Fundamentals  
+- Developed and optimized internal web modules using React and Node.js  
+- Implemented role-based authentication and secure session management  
+- Improved API response times through backend logic and database query optimization  
+- Assisted in production deployments and server configuration on VPS (Hostinger)
 
 ---
 
-### 💼 Selected Projects
+### 🛠️ Technical Skills
 
-**🔹 Payroll & Attendance Management System**  
-- Technologies: React, Node.js, MongoDB, Supabase  
-- Built salary structures, deductions, payslip generation, and admin dashboards  
-- Designed for internal organizational use with secure role-based workflows  
+**Frontend**
+- React.js, HTML, CSS  
 
-**🔹 Gamified Anti-Doping Learning Platform**  
-- Technologies: React, Next.js, Firebase, Python  
-- Quiz-based learning system with levels, badges, leaderboards, and analytics  
-- Focused on user engagement and educational outcomes  
+**Backend**
+- Node.js, REST APIs  
 
-**🔹 PDF Play – Online PDF Utility Platform**  
-🔗 <a href="https://pdfplay.in/">pdfplay.in</a>  
+**Databases**
+- MongoDB, Supabase, Firebase  
 
-- Technologies: React.js, JavaScript, Node.js  
-- Developed production-ready tools for PDF merge, split, convert, and compression  
-- Deployed with custom domain and performance optimizations  
-
-**🔹 Personal Portfolio Website**  
-🔗 <a href="https://shivatejj-portfolio.vercel.app/">Portfolio</a>  
-
-- Technologies: Next.js, React, Tailwind CSS  
-- Recruiter-focused UI with modern animations and clean design  
+**Deployment & Tools**
+- VPS (Hostinger), Git, GitHub  
 
 ---
 
-### 🛠️ Tech Stack
+### 📌 Projects
 
-<p align="left">
-<img src="https://img.shields.io/badge/Frontend-1f2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss"/>
-</p>
+**Automated Distractors Generation (2024)**  
+*Python, NLP, TensorFlow, Anvil, SentenceTransformer*  
+- Built an automated distractor generation engine with ~90% accuracy on 500+ MCQs  
+- Reduced manual question-setting effort by saving 10+ educator hours weekly  
+- Implemented semantic similarity scoring and context-aware filtering  
+- Tested with 100+ students, showing measurable quiz performance improvement  
 
-<p align="left">
-<img src="https://img.shields.io/badge/Backend-1f2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-</p>
+**Automated Question Generation (2024)**  
+*Python, Transformer Models, HuggingFace, Flask API*  
+- Designed a text-to-question generation pipeline using transformer models  
+- Reduced question preparation time by 30% and improved clarity by 20%  
+- Deployed for 50+ educators with stable backend performance  
+- Added answer-key validation and difficulty scoring features  
 
-<p align="left">
-<img src="https://img.shields.io/badge/Database-1f2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
-</p>
+**Plant Species Identification (2023)**  
+*CNN, TensorFlow, Keras, Computer Vision*  
+- Developed a CNN-based classifier with 92% accuracy on 5,000+ leaf images  
+- Optimized inference to classify images in under 2 seconds  
+- Implemented preprocessing for noise removal and leaf segmentation  
 
-<p align="left">
-<img src="https://img.shields.io/badge/DevOps_&_Tools-1f2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true"/>
-</p>
+**Gamified Anti-Doping Education Platform – SIH 2024**  
+*React, Node.js, MongoDB, JWT Authentication*  
+- Built a gamified learning platform with quizzes, rewards, and leaderboards  
+- Increased student engagement by 60% using reinforcement-based gameplay  
+- Designed secure authentication and database handling for 200+ active users  
 
 ---
 
-### 🌱 Professional Traits
+### 🎓 Education
 
-- Strong learning mindset and adaptability  
-- Attention to clean UI and maintainable code  
-- Experience with real production deployments  
-- Comfortable working across the full web stack  
+**Bachelor of Engineering**  
+MVSR Engineering College  
+*2021 – 2025*
+
+---
+
+### 📜 Certifications
+
+- AICTE – AWS Data Analytics  
+- AWS – Google AI/ML  
+- Responsive Web Design – FreeCodeCamp  
+- Python for Everybody – Coursera  
+
+---
+
+### 🏆 Achievements
+
+- Best Major Project — MVSR Engineering College (2024)
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/shiva-tejj-cheedalla-096915258/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/shivatejj">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 <p align="center">
-⭐ Open to fresher Frontend / fresher Backend / Full Stack Developer opportunities  
+⭐ Open to Fresher Full Stack / Frontend Developer roles /backend Developer Roles
 </p>
